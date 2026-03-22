@@ -13,5 +13,5 @@ my-project-admin.json
 .python-version
 uv.lock 
 pyproject.toml
-
+.adk/
 
